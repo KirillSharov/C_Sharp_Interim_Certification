@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.AssemblyInfo.cs
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\bin\Debug\net7.0\Task066.exe
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\bin\Debug\net7.0\Task066.deps.json
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\bin\Debug\net7.0\Task066.runtimeconfig.json
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\bin\Debug\net7.0\Task066.dll
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\bin\Debug\net7.0\Task066.pdb
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.dll
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\refint\Task066.dll
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.pdb
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\Task066.genruntimeconfig.cache
+C:\Users\PC\Desktop\GeekBrains\C#\HomeWork\Interim_Certificate\C_Sharp_Interim_Certification\HW_9\Task066\obj\Debug\net7.0\ref\Task066.dll
